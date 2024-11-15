@@ -1,0 +1,6 @@
+name: Exceed Backend workflow
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
